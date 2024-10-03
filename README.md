@@ -12,6 +12,21 @@ the visionn of sciense is different due to their calture.
 
 ⇨sructured knowledge on the "pthosical world" associated to universal methods (observation/experiment)
 
+
 History
 
 what is the computer sciense ? 
+
+computing 
+- A science
+- techonology
+- applications
+- social impact
+
+computer Science
+- Concepts :
+- - infrmation
+- - algorithm
+- - programming language
+- - architecture (computing engine)
+
