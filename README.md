@@ -25,7 +25,7 @@ computing
 
 computer Science
 - Concepts :
-- - infrmation
+-- infrmation
 - - algorithm
 - - programming language
 - - architecture (computing engine)
