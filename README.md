@@ -36,6 +36,21 @@ computer Science
 - Human organization
 
 
+not only informatics requires to extend the usual classifications of sciences to include analytic a posterior sciences, 
+
+
+Gice otn example of scientific fact and explain why you call it scientific
+
+⇨A scientific fact is an hypothesis that 
+
+The scientific Method 
+
+- abservation of the reality is possible without premises;
+
+- formulation of an hypothesis from scietist creativity
+
+- experimental cerification by confrontation of hte hypothesis with the reality (which is always true)
+
 
 
 
