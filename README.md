@@ -25,8 +25,33 @@ computing
 
 computer Science
 - Concepts :
--- infrmation
-- - algorithm
-- - programming language
-- - architecture (computing engine)
+    - infrmation
+    - algorithm
+    - programming language
+    - architecture (computing engine)
+
+- Methods
+ back and forth between theory and experimentation, Automatic abstractiom transform, self-generated tools
+
+- Human organization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
